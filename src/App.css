@@ -1,0 +1,28 @@
+.jumbotron{
+  background-color: rgb(46, 153, 196);
+  color: white;
+  text-align: center; 
+}
+.body{
+  background-color: #b4f2e1;
+  box-sizing: border-box;
+  margin: 0%;
+  padding: 0%;  
+}
+h1 {
+  font-size: 2em;
+}
+
+body {
+  visibility: visible !important;
+}
+
+
+.auth form {
+  margin-top: 1em;
+  max-width: 50%;
+}
+
+.buttons {
+  margin-left: 1em;
+}
